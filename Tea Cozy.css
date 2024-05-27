@@ -203,23 +203,22 @@
    font-family: helvetica;
 }
 .footer-num {
-  align-items: center;
-  justify-content: center;
-  display: flex;
-  padding-bottom: 20px;
+   align-items: center;
+   justify-content: center;
+   display: flex;
+   padding-bottom: 20px;
 }
 .footer-num h5 {
    color:seashell;
    font-family: helvetica;
 }
 .footer {
-text-align: left;
-display: flex;
-margin-top:20px;
-margin-left: 20px;
+   text-align: left;
+   display: flex;
+   margin-top:20px;
+   margin-left: 20px;
 }
 .footer h5 {
-color: seashell;
-font-family: helvetica;
-
+   color: seashell;
+   font-family: helvetica;
 }
